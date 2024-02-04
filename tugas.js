@@ -16,10 +16,10 @@
 //task 1
 console.log(`Task 1`);
 console.log(` `);
-const nama = `Farhan`;
-const umur = `19`;
-const posisi = `manager`;
-let kehadiran = `masuk`;
+const nama = `Farhan`; //Nama wajib di isi
+const umur = `19`; //Umur wajib di isi
+const posisi = `manager`; //posisi wajib di isi (Karyawan / manager)
+let kehadiran = `masuk`; //kehadiran wajib di isi
 
 if (!nama){
   console.log(`Nama harus di isi`);
